@@ -22,7 +22,7 @@ Cosmetic Insights is a Tableau-based project that visualizes cosmetics data, rev
 ![Screenshot 2025-06-30 094124](https://github.com/user-attachments/assets/d7126248-9c69-44cb-81ce-af2534326439)
 :
 # 🚀How to Use / View Dashboard:
-1. Visit the published Tableau dashboard [here][your-tableau-link](https://public.tableau.com/views/Book2_17511332765270/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+1. Visit the published Tableau dashboard [here](https://public.tableau.com/app/profile/r.dharani/viz/Book2_17511332765270/Dashboard2)
 2. Visit the published Tableau dashboard [here](https://public.tableau.com/views/Book_17511886261570/Dashboard1?:embed=yes&:display_count=yes)
 3. Visit the published Tableau story [here](https://public.tableau.com/app/profile/r.dharani/viz/Story_17511902003540/Story1?publish=yes)
 4. Use filters to explore brand performance, ingredient trends, and more.
