@@ -18,7 +18,7 @@ Cosmetic Insights is a Tableau-based project that visualizes cosmetics data, rev
 - Python/Excel (for preprocessing)
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard1.png)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/c24c0ebe-3f23-490e-b76a-fe43e702ca37)
 ![Screenshot 2025-06-30 094124](https://github.com/user-attachments/assets/d7126248-9c69-44cb-81ce-af2534326439)
 :
 # 🚀How to Use / View Dashboard:
